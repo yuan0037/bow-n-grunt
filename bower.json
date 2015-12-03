@@ -1,0 +1,22 @@
+{
+  "name": "Bower_Grunt",
+  "authors": [
+    "yuan0037 <yuan0037@algonquinlive.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "4.0",
+    "font-awesome": "fontawesome#~4.5.0"
+  }
+}
